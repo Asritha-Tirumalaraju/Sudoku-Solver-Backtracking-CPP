@@ -7,7 +7,7 @@ It is designed with a strong focus on **correctness, input validation, and struc
 1. Backtracking Algorithm
   Explores possible values using a depth-first approach and reverses decisions when constraints are violated.
 
- 2.Input Validation
+2.Input Validation
   Ensures the initial puzzle follows Sudoku rules before attempting to solve it.
 
 3.Efficient Grid Handling
