@@ -4,7 +4,7 @@ This project is a C++ implementation of a **9×9 Sudoku solver** that uses a **b
 It is designed with a strong focus on **correctness, input validation, and structured logic**.
 🚀 Highlights
 
- 1. Backtracking Algorithm
+1. Backtracking Algorithm
   Explores possible values using a depth-first approach and reverses decisions when constraints are violated.
 
  2.Input Validation
@@ -16,7 +16,7 @@ It is designed with a strong focus on **correctness, input validation, and struc
 4.Readable Output
   Prints the Sudoku board in a clear and organized format.
 
-l🧠 How the Program Works
+🧠 How the Program Works
 🔁 Solving Strategy
 
 The solver:
